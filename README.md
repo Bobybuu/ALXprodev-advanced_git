@@ -69,7 +69,7 @@ git flow hotfix finish <x.x.x>  # Finish hotfix and merge into main & develop
 
 ---
 
-## 📂 Project Tasks
+## 📂 Project Task
 
 ### **Task 0: Setting up GitFlow**
 
